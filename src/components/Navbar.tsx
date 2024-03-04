@@ -94,14 +94,14 @@ const Navbar = () => {
                         width={350}
                         height={115}
                         alt="Line"
-                        className='rounded-[30px]'
+                        className='h-[250px] rounded-[30px]'
                     />
                     <Image
                         src={"/images/bedroom.jpg"}
                         width={350}
                         height={115}
                         alt="Line"
-                        className='rounded-[30px]'
+                        className='h-[250px] rounded-[30px]'
                     />
                 </div>
                 <div className='col-span-2 flex flex-col gap-[70px] text-white'>
